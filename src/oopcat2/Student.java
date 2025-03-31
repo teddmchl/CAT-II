@@ -1,4 +1,4 @@
-package oopcat2; // Package declaration to keep all files organized
+package oopcat2;
 
 // Encapsulation: Using private fields and public getter/setter methods
 class Student {
